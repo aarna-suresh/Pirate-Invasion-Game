@@ -1,0 +1,45 @@
+1.Cannon
+
+2.Cannon Ball
+
+3.Background
+
+4.Ships
+
+
+6.Score
+
+7. Sound
+
+8. Game Over Message/Box
+
+
+
+    //     //sample array
+    //     var sample = [65, 324436, "AVANI", [555, 777], 34, 980, "uttara"];
+
+
+    //    //push(): Add items to the end of an array
+    //    sample.push(999);
+
+    //    //pop(): Remove an item from the end of an array
+    //    sample.pop();
+
+    //    //unshift(): Add items to the beginning of an array
+    //    sample.unshift(999);
+
+    //    //shift(): Remove an item from the beginning of an array
+    //    sample.shift();
+
+    //    console.log(sample);
+
+
+    //    console.log("1 index of array SAMPLE: sample[1] :  "+sample[1]);
+    //    console.log("3 index of array SAMPLE: sample[3] :  "+sample[3]);
+
+
+
+    //    console.log("0 index of the index 3 of array SAMPLE: sample[3][0] :  "+sample[3][0]);
+    //    console.log("1 index of the index 3 of array SAMPLE: sample[3][1] :  "+sample[3][1]);
+
+
